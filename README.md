@@ -14,9 +14,7 @@ An end-to-end data analytics project evaluating accommodation pricing structures
 
 ## Market Dynamics Dashboard
 
-<p align="center">
-  <img src="./airbnb_bandung_minimalist.png" alt="Bandung Airbnb Market Dynamics" width="100%">
-</p>
+![Bandung Airbnb Market Dynamics](airbnb_bandung_minimalist.png)
 
 ---
 
